@@ -1,5 +1,7 @@
 # Lab 3: Always On Keyword Spotting on ESP32
 
+> Note: This lab specification is subject to change.
+
 ## Overview
 Students will build an IoT system where the ESP32 continuously monitors microphone input, classifies audio segments in real-time using an on-device Neural Network, and triggers a response only when the keyword **"Go"** is detected.
 
